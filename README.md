@@ -1,3 +1,5 @@
+## Name:Prideesh M
+## Reg no:212223040154
 # Series Queues with infinite capacity - Open Jackson Network
 
 ## Aim :
@@ -17,11 +19,15 @@ Visual components and Python
 
 
 ## Experiment:
+![pro ex06 exp01](https://github.com/prideeshm/Open-Jacson-Networks/assets/144870483/781b06e3-9d28-4534-8472-3a072c3d03ba)
+![pro ex06 exp02](https://github.com/prideeshm/Open-Jacson-Networks/assets/144870483/1a706359-6d44-43fa-a405-382ff324b0c4)
 
 
 ## Program
 
 
 ## Output
+![pro ex06](https://github.com/prideeshm/Open-Jacson-Networks/assets/144870483/9e8244ad-040b-47d6-b730-50a9eb12a68a)
 
 ## Result
+The average number of material in the sysytem and in the conveyor and waiting time are successfully found.
